@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://images.alphacoders.com/598/598655.png");
+}
+input[type=text],select{
+width: 60%;
+padding: 7px;
+margin: 8px;
+}
+input[type="password"] {
+width: 60%;
+padding: 7px;
+margin: 8px; 
+display: inline-block;
+}
+input[type="submit"] {
+width: 20%;
+padding: 7px;
+margin: 8px;
+margin-left: 150px;
+}
+form {
+color: white;
+}
