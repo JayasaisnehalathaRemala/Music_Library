@@ -5,4 +5,13 @@ body {
             background-image: url("https://images.alphacoders.com/598/598655.png");
             color: white;
         }
-        
+.nine {
+    text-decoration: none; 
+    color: white;
+}
+.eight {
+    float: right;
+}
+.seven {
+    float: left;
+}
